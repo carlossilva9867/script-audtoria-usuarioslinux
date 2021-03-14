@@ -1,4 +1,4 @@
-# script-audtoria-usuarioslinux
+# script de auditoria para usuarios e grupos linux
 scrtip que auxilia na auditoria de usuarios e grupos no linux
 Este script tem como objetivo ler os seguintes arquivos;
 
