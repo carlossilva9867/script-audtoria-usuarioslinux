@@ -1,4 +1,4 @@
-# // script de autoria de usuarios BRKA  \\
+# // script de autoria de usuarios LINUX  \\
 
 echo "-------------------------------------------------------------------------#"
 echo -e "#\e[1;33m           SCRIPT PARA AUDITORIA DE USUARIOS LINUX                      \e[0m#"
